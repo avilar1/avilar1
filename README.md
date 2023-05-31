@@ -9,7 +9,7 @@ Entering the Dev world in a headlong dive.
 * 🌍  I'm based in Rio de Janeiro
 * ✉️  You can contact me at [yagoavila1@gmail.com](mailto:yagoavila1@gmail.com)
 * 🧠  I'm learning Java, C#
-* ⚡  Carioca da gema, ex public mannager
+* ⚡  Carioca da gema, former public mannager.
 
 ### Skills
 
